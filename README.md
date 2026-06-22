@@ -1,2 +1,2 @@
-# Neural_network_design_ML
-Making neural network from scratch with evaluation techniques
+# MLE-ex03
+This is the exercise 3 for ML-essentials course
